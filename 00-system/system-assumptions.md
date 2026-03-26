@@ -49,6 +49,8 @@ SMIA remains domain-agnostic.
 
 Constitutional Scope
 
-Assumptions define the conditions under which system guarantees hold.  
-Violating an assumption places a use case outside SMIA’s applicability without violating its invariants.  
+Assumptions define the conditions under which system guarantees hold.
+
+Violating an assumption places a use case outside SMIA’s applicability without violating its invariants.
+
 Assumptions are revised only if the system definition itself changes.
