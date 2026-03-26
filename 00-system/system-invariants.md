@@ -1,4 +1,4 @@
-System Invariants
+SMIA – System Invariants
 
 Invariant I – No Ungoverned Decision  
 For all a ∈ D, a has been evaluated against R.
