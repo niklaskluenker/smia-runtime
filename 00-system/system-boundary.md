@@ -4,12 +4,12 @@ Declaration
 
 This boundary separates understanding from meaning.
 
-Understanding lies outside the SMIA system boundary.
+Understanding lies outside the SMIA system boundary.  
 Meaning lies inside the SMIA system boundary.
 
 Boundary Definition
 
-Understanding exists only as internal genesis.
+Understanding exists only as internal genesis.  
 Meaning is the first governable system state.
 
 Governance begins at formalized meaning.
