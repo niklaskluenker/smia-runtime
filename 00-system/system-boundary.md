@@ -20,7 +20,7 @@ SMIA does not govern understanding.
 SMIA governs meaning.
 
 Understanding is epistemic.  
-Meaning is explicit, typed, governable.
+Meaning is explicit, typed, and governable.
 
 Structural Consequence
 
