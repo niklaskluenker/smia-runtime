@@ -22,5 +22,6 @@ Meaning is explicit, typed, and governable.
 Structural Consequence
 
 SMIA operates exclusively on meaning and beyond.  
-Post-hoc governance does not apply.  
+Post-hoc governance does not apply.
+
 Governance follows from architectural constraint.
