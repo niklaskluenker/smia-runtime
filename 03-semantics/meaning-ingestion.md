@@ -27,5 +27,6 @@ Role of SMIA
 SMIA does not generate decisions.  
 SMIA constrains the decision space within which decisions may exist.
 
-Meaning ingestion is an external interface.  
+Meaning ingestion is an external interface.
+
 Governance begins once meaning is formalized.
