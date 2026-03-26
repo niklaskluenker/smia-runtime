@@ -1,4 +1,4 @@
-Policy Structure
+SMIA – Policy Structure
 
 Policies define hierarchical governance logic.
 
