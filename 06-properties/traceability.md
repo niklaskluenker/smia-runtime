@@ -5,6 +5,5 @@ rule lineage
 policy lineage  
 constraint evaluation path
 
-No decision exists without traceability.
-
+No decision exists without traceability.  
 Traceability is intrinsic, not added.
