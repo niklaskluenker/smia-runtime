@@ -4,9 +4,9 @@ A decision package is the atomic execution unit of SMIA.
 
 A decision package contains:
 
-admissible action
-constraint evaluation result
-policy lineage
+admissible action  
+constraint evaluation result  
+policy lineage  
 evidence bindings
 
 A decision package represents a fully governed decision state.
