@@ -1,9 +1,9 @@
-Example – Decision Evaluation
+SMIA – Example Decision Evaluation
 
 Input
 
-M – Meaning Space
-R – Rule Set
+M – Meaning Space  
+R – Rule Set  
 A – Action Space
 
 Call
