@@ -16,7 +16,7 @@ Governance begins at formalized meaning.
 
 Boundary Principle
 
-SMIA does not govern understanding.
+SMIA does not govern understanding.  
 SMIA governs meaning.
 
 Understanding is epistemic.
