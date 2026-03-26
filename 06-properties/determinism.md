@@ -1,4 +1,4 @@
-Determinism
+SMIA – Determinism
 
 Given identical inputs:
 
