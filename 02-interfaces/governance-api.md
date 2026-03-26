@@ -2,13 +2,13 @@ SMIA – Governance API
 
 The Governance API defines normative input to the runtime.
 
-Inputs include:
+Inputs include:  
 policy definitions  
 rule sets  
 obligation structures  
 constraint hierarchies
 
-All governance inputs are:
+All governance inputs are:  
 declarative  
 versioned  
 composable
