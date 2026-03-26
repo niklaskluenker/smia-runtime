@@ -10,6 +10,5 @@ evidence bindings
 
 A decision package represents a fully governed decision state.
 
-Only actions contained in a decision package may execute.
-
+Only actions contained in a decision package may execute.  
 No execution occurs outside a decision package.
