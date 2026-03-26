@@ -16,8 +16,7 @@ input → rule evaluation → output
 SMIA operates as:  
 meaning → constraint system → admissible action space → decision package
 
-A rule engine selects an output.
-
+A rule engine selects an output.  
 SMIA defines which outputs are admissible.
 
 Decision Closure
@@ -38,8 +37,7 @@ Execution Boundary
 
 A rule engine produces outputs that may require validation.
 
-SMIA defines the execution boundary.
-
+SMIA defines the execution boundary.  
 If an action is executed, it is already governed.
 
 Evidence
@@ -52,6 +50,5 @@ Conclusion
 
 A rule engine selects outputs.
 
-SMIA constrains the existence of decisions.
-
+SMIA constrains the existence of decisions.  
 SMIA is a governance runtime.
