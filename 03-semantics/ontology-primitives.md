@@ -1,4 +1,4 @@
-Ontology Primitives
+SMIA – Ontology Primitives
 
 The semantic system consists of:  
 entities  
