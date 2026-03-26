@@ -2,9 +2,9 @@ Decision API
 
 Input
 
-M – Meaning Space
-R – Rule Set
-A – Action Space
+M – Meaning Space  
+R – Rule Set  
+A – Action Space  
 
 Output
 
