@@ -2,10 +2,9 @@ Policy Structure
 
 Policies define hierarchical governance logic.
 
-Policies integrate:
-
-constraints
-obligations
+Policies integrate:  
+constraints  
+obligations  
 rule composition
 
 Policy hierarchies resolve conflicts deterministically.
