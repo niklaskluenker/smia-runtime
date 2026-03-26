@@ -6,9 +6,9 @@ C(R, M)
 
 Constraints are derived from:
 
-rules
-policies
-obligations
+rules  
+policies  
+obligations  
 semantic conditions
 
 For each action a ∈ A:
