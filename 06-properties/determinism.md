@@ -1,6 +1,6 @@
 SMIA – Determinism
 
-Given identical inputs:
+Given identical inputs:  
 (M, R, A)
 
 the resulting decision space D is identical.
