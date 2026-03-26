@@ -1,4 +1,4 @@
-Governance Logic
+SMIA – Governance Logic
 
 Governance logic consists of:  
 rules  
