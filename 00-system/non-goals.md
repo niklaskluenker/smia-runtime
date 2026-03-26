@@ -1,4 +1,4 @@
-SMIA – Non-Goals
+SMIA – System Non-Goals
 
 SMIA does not generate decisions.
 
