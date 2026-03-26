@@ -15,6 +15,4 @@ SMIA does not apply probabilistic or heuristic governance.
 SMIA does not replace AI models.
 
 
-
-
 SMIA defines the constraints under which decisions may exist.
