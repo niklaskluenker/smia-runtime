@@ -1,4 +1,4 @@
-Constraint Evaluation
+SMIA – Constraint Evaluation
 
 Constraint evaluation is defined by the function:
 
