@@ -1,10 +1,9 @@
-Traceability
+SMIA – Traceability
 
-Every decision contains:
-
-- rule lineage
-- policy lineage
-- constraint evaluation path
+Every decision contains:  
+rule lineage  
+policy lineage  
+constraint evaluation path
 
 No decision exists without traceability.
 
