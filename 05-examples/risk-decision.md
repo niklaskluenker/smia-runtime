@@ -1,34 +1,34 @@
-Example – Risk Decision
+SMIA – Example Risk Decision
 
 Meaning Space
 
-transaction
-risk_score
+transaction  
+risk_score  
 identity_status
 
 Rule Set
 
-risk policy
+risk policy  
 fraud constraints
 
 Action Space
 
-approve
-reject
+approve  
+reject  
 escalate
 
 Constraint Evaluation
 
-approve → violates risk constraint
+approve → violates risk constraint  
 escalate → satisfies policy
 
 Decision Package
 
-allowed: escalate
+allowed: escalate  
 disallowed: approve
 
 Evidence
 
-risk threshold exceeded
-policy applied
+risk threshold exceeded  
+policy applied  
 constraint trace recorded
