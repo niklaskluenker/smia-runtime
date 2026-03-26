@@ -4,9 +4,9 @@ Constraints bind semantic primitives.
 
 Constraints define:
 
-- allowed conditions
-- prohibited conditions
-- required obligations
+allowed conditions
+prohibited conditions
+required obligations
 
 Constraints operate as formal restrictions on action space.
 
