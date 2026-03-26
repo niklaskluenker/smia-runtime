@@ -10,8 +10,7 @@ policies
 obligations  
 semantic conditions
 
-For each action a ∈ A:
-
+For each action a ∈ A:  
 a is admissible ⇔ a satisfies all constraints
 
 Constraint evaluation is deterministic.  
