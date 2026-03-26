@@ -10,12 +10,10 @@ SMIA constructs a governed decision space before execution.
 
 Structural Difference
 
-A rule engine operates as:
-
+A rule engine operates as:  
 input → rule evaluation → output
 
-SMIA operates as:
-
+SMIA operates as:  
 meaning → constraint system → admissible action space → decision package
 
 A rule engine selects an output.
@@ -24,12 +22,10 @@ SMIA defines which outputs are admissible.
 
 Decision Closure
 
-In a rule engine:
-
+In a rule engine:  
 outputs exist independently of rules.
 
-In SMIA:
-
+In SMIA:  
 outputs exist only if admissible under constraints.
 
 Formally:
