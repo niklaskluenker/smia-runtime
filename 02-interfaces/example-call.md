@@ -14,12 +14,12 @@ Output
 
 Decision Package
 
-{
-  admissible_actions: [...],
-  rejected_actions: [...],
-  constraint_evaluation: [...],
-  policy_lineage: [...],
-  evidence: [...]
+{  
+  admissible_actions: [...],  
+  rejected_actions: [...],  
+  constraint_evaluation: [...],  
+  policy_lineage: [...],  
+  evidence: [...]  
 }
 
 Only admissible actions may execute.
