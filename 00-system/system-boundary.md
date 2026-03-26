@@ -19,7 +19,7 @@ Boundary Principle
 SMIA does not govern understanding.  
 SMIA governs meaning.
 
-Understanding is epistemic.
+Understanding is epistemic.  
 Meaning is explicit, typed, governable.
 
 Structural Consequence
