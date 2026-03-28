@@ -38,10 +38,10 @@ If a decision executes, governance already holds.
 
 ---
 
-This repository exposes:
-system definition
-runtime model
-interface surface
+This repository exposes:  
+system definition  
+runtime model  
+interface surface  
 structural invariants
 
 This repository does not expose:
