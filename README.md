@@ -44,9 +44,9 @@ runtime model
 interface surface  
 structural invariants
 
-This repository does not expose:
-internal execution logic
-optimization strategies
+This repository does not expose:  
+internal execution logic  
+optimization strategies  
 implementation details
 
 ---
