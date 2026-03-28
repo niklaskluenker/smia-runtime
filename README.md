@@ -57,5 +57,5 @@ Current AI systems produce outputs without structural guarantees.
 
 SMIA ensures that any executable decision is already governed.
 
-Governance is not enforced.
+Governance is not enforced.  
 Governance follows from system structure.
