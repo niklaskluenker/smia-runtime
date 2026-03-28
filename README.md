@@ -14,7 +14,7 @@ SMIA determines which predictions may become executable decisions.
 
 SMIA sits between AI prediction and execution.
 
-AI systems produce possible actions.
+AI systems produce possible actions.  
 SMIA determines which actions are admissible.
 
 Only admissible actions may execute.
@@ -23,11 +23,11 @@ Only admissible actions may execute.
 
 System Flow
 
-AI Model Output
-Meaning Space (M)
-Constraint Evaluation (C(R, M))
-Decision Space (D)
-Decision Package
+AI Model Output  
+Meaning Space (M)  
+Constraint Evaluation (C(R, M))  
+Decision Space (D)  
+Decision Package  
 Execution
 
 ---
