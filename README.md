@@ -1,6 +1,6 @@
 SMIA – Semantic Governance Runtime
 
-SMIA is a runtime that constrains the decision space such that only governed decisions can exist.
+SMIA is a runtime that constrains the decision space such that only admissible decisions can exist.
 
 ---
 
