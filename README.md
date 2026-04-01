@@ -1,6 +1,8 @@
 SMIA – Semantic Governance Runtime
 
-SMIA is a runtime that constrains the decision space such that only admissible decisions can exist.
+AI systems implicitly treat model outputs as decisions.
+
+SMIA is a runtime that constrains the decision space such that only governed decisions can exist.
 
 ---
 
@@ -10,25 +12,22 @@ SMIA does not execute predictions.
 
 SMIA determines which predictions may become executable decisions.
 
+Only actions within the governed decision space may execute.
+
 ---
 
 SMIA sits between AI prediction and execution.
-
-AI systems produce possible actions.  
-SMIA determines which actions are admissible.
-
-Only admissible actions may execute.
 
 ---
 
 System Flow
 
 AI Model Output  
-Meaning Space (M)  
-Constraint Evaluation (C(R, M))  
-Decision Space (D)  
-Decision Package  
-Execution
+→ Meaning Space (M)  
+→ Constraint Evaluation (C(R, M))  
+→ Decision Space (D)  
+→ Decision Package  
+→ Execution
 
 ---
 
