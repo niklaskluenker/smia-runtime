@@ -12,7 +12,7 @@ SMIA does not execute predictions.
 
 SMIA determines which predictions may become executable decisions.
 
-Only actions within the governed decision space may execute.
+Only governed decisions may execute.
 
 ---
 
