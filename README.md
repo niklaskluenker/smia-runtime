@@ -14,6 +14,8 @@ SMIA determines which predictions may become executable decisions.
 
 Only governed decisions may execute.
 
+Invalid decisions are structurally unreachable.
+
 ---
 
 SMIA sits between AI prediction and execution.
